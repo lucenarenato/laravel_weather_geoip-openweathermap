@@ -1,5 +1,7 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
+
+
 ```
 php artisan key:generate
 php artisan migrate
@@ -14,6 +16,10 @@ npm install.
 npm run dev.
 ```
 - http://lyften.com/projects/laravel-geoip/doc/services.html
+- http://openweathermap.org
+
+<p align="center"><img src="2020-01-13_16-55-24.png"></p></br>
+<p align="center"><img src="2020-01-13_16-56-12.png"></p></br>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
